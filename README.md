@@ -13,4 +13,5 @@
 <a name="dl"/>
 ##Deep Learning
 - [DIGITS](https://github.com/NVIDIA/DIGITS)
+- [TensorBoard](https://www.tensorflow.org/get_started/summaries_and_tensorboard)
 - [TensorDebugger (TDB)](https://github.com/ericjang/tdb)
